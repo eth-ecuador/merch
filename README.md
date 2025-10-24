@@ -1,4 +1,4 @@
-# Merch MVP
+# Merch Project
 
 A Base-native Proof of Attendance protocol that uses Digital Merch NFTs, demonstrating a **low-cost, friction-minimized user experience** and validating the **freemium monetization model** on the **Base Sepolia Testnet**.
 
@@ -62,23 +62,12 @@ This project is organized across three specialized repositories:
 - [**Smart Contract Specification**](docs/SMART_CONTRACTS.md) - Contract design and functions
 - [**API Specification**](docs/API_SPECIFICATION.md) - Backend endpoints and integration
 - [**Frontend/UX Guide**](docs/FRONTEND_UX.md) - UI/UX design and implementation
-- [**MVP Scope**](docs/MVP_SCOPE.md) - Project goals and success criteria
+- [**Project Scope**](docs/Project_SCOPE.md) - Project goals and success criteria
 - [**Development Guide**](docs/DEVELOPMENT.md) - Setup, testing, and deployment
-
-## 🎯 MVP Success Criteria
-
-The MVP is complete when users can:
-
-1. **Upload merch images** as Creators to IPFS storage
-2. **Create events** with images and claim codes
-3. **Reserve claims** via email/wallet without gas fees
-4. **Mint Basic Merch SBT** by paying minimal L2 gas fees
-5. **Upgrade to Premium Merch** ERC-721 with test ETH
-6. **Receive EAS attestations** for verifiable attendance records
 
 ## 🤝 Contributing
 
-1. Review the [MVP Scope](docs/MVP_SCOPE.md) to understand project boundaries
+1. Review the [Project Scope](docs/Project_SCOPE.md) to understand project boundaries
 2. Check the [Development Guide](docs/DEVELOPMENT.md) for setup instructions
 3. Follow the architecture patterns outlined in [Architecture Overview](docs/ARCHITECTURE.md)
 4. Submit PRs to the appropriate repository (contracts, backend, or miniapp)
