@@ -4,7 +4,7 @@
 
 **Merch**—a Base-native Proof of Attendance protocol that uses Digital Merch NFTs—demonstrating a **low-cost, friction-minimized user experience (UX)** and validating the **freemium monetization model** on the **Base Sepolia Testnet**.
 
-## 2. Core MVP Scope (Must-Haves)
+## 2. Core Scope
 
 | Component | Responsibility | Key Feature |
 |-----------|---------------|-------------|
@@ -17,7 +17,7 @@
 | **Data Integrity** | Smart Contract + Backend | **EAS Attestation** issuance post-NFT minting for verifiable, open attendance records. |
 | **Monetization** | All Roles | Paid upgrade process on Testnet (ETH on Base Sepolia) and Treasury/Fee distribution logic implementation. |
 
-## 3. Exclusions (Features for Post-MVP)
+## 3. Future
 
 - **Paymaster/Gas Sponsorship**: **Excluded from MVP.** Will be implemented in Phase 2/3 to achieve the true zero-gas experience.
 - **Smart Wallet/Account Abstraction Redemption**: The off-chain redemption requires the user to connect and pay gas (minimal L2 fee). Full **Smart Wallet integration** for gasless redemption will be a Phase 2 feature.
