@@ -2,7 +2,7 @@
 
 ## 1. Project Goal
 
-To launch a Minimum Viable Product (MVP) of **Merch**—a Base-native Proof of Attendance protocol that uses Digital Merch NFTs—demonstrating a **low-cost, friction-minimized user experience (UX)** and validating the **freemium monetization model** on the **Base Sepolia Testnet**.
+**Merch**—a Base-native Proof of Attendance protocol that uses Digital Merch NFTs—demonstrating a **low-cost, friction-minimized user experience (UX)** and validating the **freemium monetization model** on the **Base Sepolia Testnet**.
 
 ## 2. Core MVP Scope (Must-Haves)
 
